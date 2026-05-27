@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepender",
+        "uuid": 3380740,
+        "checksum": "y4uzj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
